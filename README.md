@@ -68,6 +68,8 @@ LinkedIn: https://www.linkedin.com/in/sheela-dubey-99303a23/
 
 GitHub: https://github.com/Sheela-Dubey/
 
+Medium: https://medium.com/me/lists
+
 Email: sheeladubey1904@gmail.com
 
 **🛠 Technologies I Work With**
