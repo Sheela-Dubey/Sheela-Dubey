@@ -72,6 +72,10 @@ Medium: https://medium.com/me/lists
 
 Email: sheeladubey1904@gmail.com
 
+Google Scholar: https://scholar.google.com/citations?user=4pQBwuMAAAAJ&hl=en&authuser=1
+Substack :https://sheeladubey.substack.com/
+ORCID : https://orcid.org/0009-0006-0624-1851
+
 **🛠 Technologies I Work With**
 Testing Frameworks & Tools: Selenium,WebDriverIO,LambdaTest,AI, TestNG, Maven, Jenkins, GIT, Postman, SoapUI
 
